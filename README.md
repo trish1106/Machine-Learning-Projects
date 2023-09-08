@@ -22,7 +22,7 @@ Hello! Welcome to my repository containing a collection of machine learning proj
 ## Technologies Used
 
 - **Programming**: Python, R
-- **Machine Learning Frameworks**: scikit-learn, TensorFlow, Keras
+- **Machine Learning Frameworks**: scikit-learn, TensorFlow, Keras, turicreate
 - **Data Manipulation and Analysis**: pandas, NumPy
 - **Visualization**: matplotlib, Seaborn
 
