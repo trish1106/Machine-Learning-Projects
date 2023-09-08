@@ -15,8 +15,9 @@ Hello! Welcome to my repository containing a collection of machine learning proj
     - Predicting the sentiment of a review based on weights of words used.
     - Tools: Python, turicreate.
 
-
-... [other projects]
+2. **[Predictive Analytics with Linear Regression]**
+    - Predicting house prices based on several features.
+    - Tools: Python, turicreate, matplotlib
 
 ## Technologies Used
 
