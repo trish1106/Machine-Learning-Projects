@@ -1,7 +1,7 @@
 import turicreate as tc
 
 # Reading the data
-products = tc.Sframe('amazon_bavy.sframe')
+products = tc.Sframe('amazon_baby.sframe')
 
 # Building a word count vector for each review
 products.groupby('name', operations= {'count': tc.aggregare.COUNT()}).sort('count', ascending = False)
